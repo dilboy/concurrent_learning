@@ -1,2 +1,2 @@
 # concurrent_learning
-并发变成学习项目
+并发编程学习项目
